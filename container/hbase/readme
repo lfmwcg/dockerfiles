@@ -1,0 +1,7 @@
+1)第一步启动hadoop
+2)第二步启动zk
+3)第三步启动hbase
+
+如果start-hbase.sh 启动不了
+进入 hadoop0 执行hbase shell:/usr/local/hbase/bin/start-hbase.sh
+
